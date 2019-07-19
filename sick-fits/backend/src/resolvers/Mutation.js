@@ -11,6 +11,9 @@ const Mutations = {
 		);
 		console.log(item);
 		return item;
+	},
+	updateItem(parent, args, ctx, info){
+		
 	}
 	
 };
